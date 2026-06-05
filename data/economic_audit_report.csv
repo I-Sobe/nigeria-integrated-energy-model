@@ -1,0 +1,6 @@
+Variable_1,Variable_2,Expected,Correlation,Status
+vandalism_idx,pipeline_down,positive,0.4759,PASS
+gas_to_power,gas_cf,positive,0.1939,PASS
+Billing_efficiency,ATC&C,negative,-0.6588,PASS
+disco_collect,collection_loss,negative,-0.8878,PASS
+Total_E_Rec_by_disco,Transmission_Loss_factor,negative,-0.1794,PASS
