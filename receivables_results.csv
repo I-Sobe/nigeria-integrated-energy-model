@@ -1,0 +1,5 @@
+Variable,ADF_p,KPSS_p,Conclusion,Action
+ln_receivables,0.9739,0.01,I(1),DIFFERENCE
+nbet_ratio,0.8554,0.01,I(1),DIFFERENCE
+disco_collect,0.8986,0.0943,Ambiguous,CHECK
+gas_cf,0.1709,0.01,I(1),DIFFERENCE
