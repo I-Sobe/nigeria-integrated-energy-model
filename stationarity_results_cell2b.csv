@@ -1,0 +1,12 @@
+Variable,ADF_p,KPSS_c_p,Conclusion,Action
+brent,0.1781,0.01,I(1),DIFFERENCE
+ttf_jkm,0.0743,0.0333,I(1),DIFFERENCE
+jkm_netback,0.2136,0.01,I(1),DIFFERENCE
+disco_collect,0.8986,0.01,I(1),DIFFERENCE
+pipeline_down,0.154,0.0405,I(1),DIFFERENCE
+solar_cf,0.0726,0.1,Still Ambiguous,VISUAL_CHECK
+dni,0.1554,0.1,Still Ambiguous,VISUAL_CHECK
+precip_mm,0.2507,0.075,Still Ambiguous,VISUAL_CHECK
+harmattan,0.0701,0.0373,I(1),DIFFERENCE
+aerosol_od,0.5959,0.01,I(1),DIFFERENCE
+temp_c,0.4544,0.1,Still Ambiguous,VISUAL_CHECK
